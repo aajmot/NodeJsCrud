@@ -1,0 +1,3 @@
+D:\SourceCodes\UP\NodejsServer\NodejsServer\NodejsServer\NodejsServer\obj\Debug\NodejsServer.njsprojResolveAssemblyReference.cache
+D:\SourceCodes\UP\NodejsServer\NodejsServer\NodejsServer\NodejsServer\obj\Debug\NodejsServer.njsproj.CoreCompileInputs.cache
+D:\SourceCodes\UP\NodejsServer\NodejsServer\NodejsServer\NodejsServer\bin\Microsoft.NodejsTools.WebRole.dll
